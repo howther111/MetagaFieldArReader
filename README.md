@@ -1,4 +1,4 @@
-# MetagaMapArReader
+# MetagaFieldArReader
 メタガ用のマップから駒の座標位置を取得するプログラムです。
 
 カメラで上からマップを撮ります。
